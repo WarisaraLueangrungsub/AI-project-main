@@ -15,3 +15,12 @@
 ![ออกแบบระบบนับแสดงเลขวงจรสองหลัก](https://i.pinimg.com/736x/14/49/7a/14497ac583992a231acd978ac46c0e57.jpg)
 
 #### [ออกแบบระบบนับแสดงเลขวงจรสองหลัก](https://www.tinkercad.com/things/5N49mmupEDp-2-?sharecode=VsBFIyMV6OGAjdAF3YQNg7Q7VQr-Nk5aYQvOS4hZ8ww)
+
+#### ออกการกดคีย์บอร์ดแล้วแสดงเป็นตัวเลข
+
+![กดคีย์บอร์ดแล้วแสดงเป็นตัวเลข]()
+
+#### [กดคีย์บอร์ดแล้วแสดงเป็นตัวเลข](https://i.pinimg.com/736x/7e/8f/a3/7e8fa33e55c11d76ea375dbd95cf5022.jpg)
+
+
+
