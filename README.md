@@ -12,6 +12,6 @@
 
 #### ออกแบบระบบนับแสดงเลขวงจรสองหลัก
 
-![อุปกรณ์วัดอุณหภูมิ](https://i.pinimg.com/736x/14/49/7a/14497ac583992a231acd978ac46c0e57.jpg)
+![ออกแบบระบบนับแสดงเลขวงจรสองหลัก](https://i.pinimg.com/736x/14/49/7a/14497ac583992a231acd978ac46c0e57.jpg)
 
-#### [อุปกรณ์วัดอุณหภูมิ](https://www.tinkercad.com/things/5N49mmupEDp-2-?sharecode=VsBFIyMV6OGAjdAF3YQNg7Q7VQr-Nk5aYQvOS4hZ8ww)
+#### [ออกแบบระบบนับแสดงเลขวงจรสองหลัก](https://www.tinkercad.com/things/5N49mmupEDp-2-?sharecode=VsBFIyMV6OGAjdAF3YQNg7Q7VQr-Nk5aYQvOS4hZ8ww)
