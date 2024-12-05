@@ -18,9 +18,9 @@
 
 #### ออกการกดคีย์บอร์ดแล้วแสดงเป็นตัวเลข
 
-![กดคีย์บอร์ดแล้วแสดงเป็นตัวเลข]()
+![กดคีย์บอร์ดแล้วแสดงเป็นตัวเลข](https://i.pinimg.com/736x/7e/8f/a3/7e8fa33e55c11d76ea375dbd95cf5022.jpg)
 
-#### [กดคีย์บอร์ดแล้วแสดงเป็นตัวเลข](https://i.pinimg.com/736x/7e/8f/a3/7e8fa33e55c11d76ea375dbd95cf5022.jpg)
+#### [กดคีย์บอร์ดแล้วแสดงเป็นตัวเลข](https://www.tinkercad.com/things/3wjoT8qMys7-?sharecode=70Nqrm8kDrI0JsCt_-24pPzef4f0JtcOMPrBfuqIUcM)
 
 
 
